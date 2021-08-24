@@ -1,3 +1,4 @@
+//yarn typeorm migration:run
 import { MigrationInterface, QueryRunner } from 'typeorm';
 
 export class migration1616108470200 implements MigrationInterface {
